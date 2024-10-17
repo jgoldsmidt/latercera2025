@@ -60,6 +60,8 @@ GEM
     unicode-display_width (2.6.0)
     webrick (1.8.2)
 
+bundle lock --add-platform x86_64-linux
+
 PLATFORMS
   x64-mingw32
 
